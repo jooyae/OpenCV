@@ -3,7 +3,7 @@
 
 ## Computer Vision OpenCV 
 
-:heavy_check_mark: OpenCV Projects 
+:heavy_check_mark: OpenCV 영상처리 Projects 
 
  - Affine Transform 
 	 - 어파인 변환은 영상의 이동, 전단, 확대, 회전을 조합할 때, 직사각형이 평행사변형으로 변화되는 원리 
@@ -29,5 +29,29 @@
 - getPerspectiveTransform 
 
 	<img src="https://user-images.githubusercontent.com/58849278/121669792-a934d480-cae7-11eb-8f7e-4037b5510d08.png" width=70%>
+	
+	
+ - cvCreateTrackbar 
+	 
+	    cvCreateTrackbar(const char* trackbar_name, const char* window_name, int* value, int count, CvTrackbarCallback on_change); 
+
+ - Web Cam에 실시간 ROI연산 적용 
+	 - 
+	 - 원하는 피사체를 따로 분리하여 영상처리를 하고 싶은 경우 '관심영역 설정'을 해야하며 이때 사용하는 것이 RoI (Region of Interest) 
+	 - 영상처리의 대표적인 이미지 예시로 Lenna.bmp 를 사용해서 왼쪽 눈과 오른 쪽 눈을 검출 
+	 - 좌표계를 이용한 ROI 연산을 적용하여 오른쪽 눈을 관심영역으로 설정 
+	 
+		<img src= "https://user-images.githubusercontent.com/58849278/121764623-53f8d180-cb80-11eb-8af4-5fc0d551689c.png" width =40%>
+
+
+ - Track Bar Event 처리 
+	 - 
+	 - 밝기와 명암을 조절하기 위한 2개의 트랙바가 있으며 각각 0~100 단위로 조정 가능 
+	 
+		 <img src="https://user-images.githubusercontent.com/58849278/121765876-0b91e180-cb89-11eb-8a11-5d3751ce75e7.png" width = 60% >
+		
+
+
+
 
 	
