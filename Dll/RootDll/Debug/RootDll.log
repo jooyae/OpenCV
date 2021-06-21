@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  RootDll.cpp
+  CalculateRoot.cpp
+c:\users\8306\documents\visual studio 2015\projects\exercise11_1\rootdll\calculateroot.cpp(17): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\8306\documents\visual studio 2015\projects\exercise11_1\rootdll\calculateroot.cpp(23): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\8306\documents\visual studio 2015\projects\exercise11_1\rootdll\calculateroot.cpp(29): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\8306\documents\visual studio 2015\projects\exercise11_1\rootdll\calculateroot.cpp(35): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  dllmain.cpp
+     c:\users\8306\documents\visual studio 2015\Projects\Exercise11_1\Debug\RootDll.lib 라이브러리 및 c:\users\8306\documents\visual studio 2015\Projects\Exercise11_1\Debug\RootDll.exp 개체를 생성하고 있습니다.
+  RootDll.vcxproj -> c:\users\8306\documents\visual studio 2015\Projects\Exercise11_1\Debug\RootDll.dll
+  RootDll.vcxproj -> c:\users\8306\documents\visual studio 2015\Projects\Exercise11_1\Debug\RootDll.pdb (Partial PDB)

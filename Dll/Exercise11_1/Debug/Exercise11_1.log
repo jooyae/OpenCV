@@ -1,0 +1,5 @@
+﻿  Exercise11_1Dlg.cpp
+c:\users\8306\documents\visual studio 2015\projects\exercise11_1\exercise11_1\exercise11_1dlg.cpp(188): warning C4101: 'fA' :참조되지 않은 지역 변수입니다.
+c:\users\8306\documents\visual studio 2015\projects\exercise11_1\exercise11_1\exercise11_1dlg.cpp(188): warning C4101: 'fB' :참조되지 않은 지역 변수입니다.
+  Exercise11_1.vcxproj -> c:\users\8306\documents\visual studio 2015\Projects\Exercise11_1\Debug\Exercise11_1.exe
+  Exercise11_1.vcxproj -> c:\users\8306\documents\visual studio 2015\Projects\Exercise11_1\Debug\Exercise11_1.pdb (Partial PDB)
