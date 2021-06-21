@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice11_3", "Practice11_3.vcxproj", "{68D5B7DE-8F96-414D-8992-C13EB3644ED0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RootDll", "..\RootDll\RootDll.vcxproj", "{03F43CB7-33D7-4DB8-BBA8-9A779501C624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Debug|x64.ActiveCfg = Debug|x64
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Debug|x64.Build.0 = Debug|x64
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Debug|x86.ActiveCfg = Debug|Win32
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Debug|x86.Build.0 = Debug|Win32
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Release|x64.ActiveCfg = Release|x64
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Release|x64.Build.0 = Release|x64
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Release|x86.ActiveCfg = Release|Win32
+		{68D5B7DE-8F96-414D-8992-C13EB3644ED0}.Release|x86.Build.0 = Release|Win32
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Debug|x64.ActiveCfg = Debug|x64
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Debug|x64.Build.0 = Debug|x64
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Debug|x86.ActiveCfg = Debug|Win32
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Debug|x86.Build.0 = Debug|Win32
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Release|x64.ActiveCfg = Release|x64
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Release|x64.Build.0 = Release|x64
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Release|x86.ActiveCfg = Release|Win32
+		{03F43CB7-33D7-4DB8-BBA8-9A779501C624}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
